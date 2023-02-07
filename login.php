@@ -46,10 +46,6 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
 
     <form action="/registration/login.php" method="post" >
 
-   
-
-     
-
       <div class="col-md-4 my-3 position-relative">
         <label for="validationTooltipUsername" class="form-label">Email<span style="color: red;">*</span></label>
         <div class="input-group has-validation">
